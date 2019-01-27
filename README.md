@@ -6,7 +6,7 @@ Implement UISearchBar for UITableView in RxSwift and introduce to some operators
 
 You can read my article about this project, How to implement UISearchBar for UITableView in rxSwift at below link:
 
-[How to implement UISearchBar for UITableView in rxSwift](https://virgool.io/@shafi.ee/uitableview-in-rxswift-part-1-tfj4dz03f)
+[How to implement UISearchBar for UITableView in rxSwift](https://virgool.io/@shafi.ee/uitableviewuisearchbar-vbf6prgnv5id)
 
 Follow [my blog](https://virgool.io/@shafi.ee/) to read next articles about RxSwift 🌹🙏🏻 
 
